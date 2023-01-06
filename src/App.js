@@ -1,10 +1,24 @@
 import logo from './logo.svg';
 import './App.css';
+import { Button } from 'bootstrap';
+import { Badge,  } from 'react-bootstrap';
 
 function App() {
   return (
     <div className="App">
       <h3>This is ok</h3>
+
+      <div>
+  <h1>
+    Example heading
+    <Badge bg="secondary" as="Button">
+      New
+    </Badge>
+  </h1>
+</div>
+  {/* <Button variant="outline-primary">Primary</Button> */}
+{/* <Button href="#">Link</Button> <Button type="submit">Button</Button> */}
+  
     </div>
   );
 }
