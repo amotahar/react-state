@@ -21,13 +21,6 @@ function App() {
       <h3>This is ok</h3>
       <h3>This is ok</h3>
       <h3>This is ok</h3>
-      <h3>This is ok</h3>
-      <h3>This is ok</h3>
-      <h3>This is ok</h3>
-      <h3>This is ok</h3>
-      <h3>This is ok</h3>
-      <h3>This is ok</h3>
-      <h3>This is ok</h3>
 
       <div>
   <h1>
